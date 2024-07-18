@@ -1,8 +1,5 @@
-![image](https://github.com/user-attachments/assets/705a8ae3-f031-4497-b616-8835db853286)# my-new-project
-Impact Investment Project Targeted Low-Income and economically Disadvantaged Groups
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
+## project : Impact Investment Project with AI ![image](https://github.com/user-attachments/assets/19524dbf-8592-43de-b0a0-2a09e752278c)
+
 
 ## Summary
 
