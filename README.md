@@ -23,11 +23,11 @@ This is how you make a list, if you need one:
 
 Objectives
 To establish a foundation for the economic self-sufficiency and sustainable growth of low-income and economically disadvantaged groups through impact investment utilizing AI solutions.
-3.2 Target Groups
+Target Groups
 •	Low-income households and economically disadvantaged individuals
 •	Small-scale entrepreneurs and prospective startups
 •	Social enterprises and cooperatives
-3.3 Operational Plans
+Operational Plans
 1.	Fundraising: Gather investment funds from various companies, financial institutions, public entities, and philanthropic donors.
 2.	Identifying Investment Targets: Conduct on-site investigations and data analysis to identify investment targets and understand their specific needs. Utilize AI algorithms to analyze large datasets and identify potential beneficiaries more efficiently.
 3.	Developing Support Programs:
