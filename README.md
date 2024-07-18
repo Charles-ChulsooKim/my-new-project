@@ -1,4 +1,4 @@
-## project : Impact Investment Project with AI ![image](https://github.com/user-attachments/assets/19524dbf-8592-43de-b0a0-2a09e752278c)
+## project : Impact Investment Project with AI 
 
 
 ## Summary
