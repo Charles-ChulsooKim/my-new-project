@@ -28,13 +28,13 @@ Target Groups
 •	Small-scale entrepreneurs and prospective startups
 •	Social enterprises and cooperatives
 Operational Plans
-1.	Fundraising: Gather investment funds from various companies, financial institutions, public entities, and philanthropic donors.
-2.	Identifying Investment Targets: Conduct on-site investigations and data analysis to identify investment targets and understand their specific needs. Utilize AI algorithms to analyze large datasets and identify potential beneficiaries more efficiently.
-3.	Developing Support Programs:
+-Fundraising: Gather investment funds from various companies, financial institutions, public entities, and philanthropic donors.
+-Identifying Investment Targets: Conduct on-site investigations and data analysis to identify investment targets and understand their specific needs. Utilize AI algorithms to analyze large datasets and identify potential beneficiaries more efficiently.
+-Developing Support Programs:
 o	AI-driven Education Programs: Implement AI tutoring systems to provide personalized learning experiences for individuals from disadvantaged backgrounds.
 o	Capital Assistance Using AI: Use AI to assess creditworthiness and risk profiles of small-scale entrepreneurs and startups, ensuring optimal allocation of capital assistance.
 o	AI-based Consulting Services: Offer AI-powered business consulting services to social enterprises and cooperatives to optimize operations and enhance productivity.
-4.	Performance Monitoring: Regularly evaluate the performance of investment targets using AI analytics tools. AI can help track progress, forecast future needs, and suggest necessary adjustments in real time.
+-Performance Monitoring: Regularly evaluate the performance of investment targets using AI analytics tools. AI can help track progress, forecast future needs, and suggest necessary adjustments in real time.
 
 ## Data sources and AI methods
 
