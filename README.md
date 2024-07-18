@@ -1,4 +1,4 @@
-## project : Impact Investment Project with AI 
+## Project : Impact Investment Project with AI 
 
 
 ## Summary
