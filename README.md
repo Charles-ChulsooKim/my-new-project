@@ -4,10 +4,6 @@ Impact Investment Project Targeted Low-Income and economically Disadvantaged Gro
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# my-new-project
-
-Impact Investment Project Targeted Low-Income and economically Disadvantaged Groups with AI
-
 ## Summary
 
 Currently, our society faces increasing economic polarization, leaving low-income and economically disadvantaged groups in particularly challenging situations. This calls for various social programs and policies to support these individuals. This project aims to promote the economic self-sufficiency and overall improvement of these groups through impact investing. Impact investing seeks to create social value while aiming for financial returns. Therefore, this project outlines specific investment strategies targeting the underprivileged segments of our society.
